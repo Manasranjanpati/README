@@ -3,7 +3,7 @@
 ***Prospecting Made Easy, Effective, And Inexpensive. Leadsolo helps you speed up sales by identifying new contacts names, email, phone numbers and social networks from millions of live sources.***
 
 
-![Leadsolo](docs/Leads.png)
+![Leadsolo](./docs/Leads.png)
 
 
 
