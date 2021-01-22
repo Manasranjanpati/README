@@ -1,6 +1,11 @@
 # Leadsolo
 
-Generate Leads for your Company
+***Prospecting Made Easy, Effective, And Inexpensive. Leadsolo helps you speed up sales by identifying new contacts names, email, phone numbers and social networks from millions of live sources.***
+
+
+![Leadsolo](/docs/Leads.png)
+
+
 
 1. [Website Search](docs/Website_Search.md)
 
