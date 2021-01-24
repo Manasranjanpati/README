@@ -18,6 +18,13 @@ Mylist is a bucket where certain user can keep his `List` of itmes after prospec
 - We have a nice feature for users to edit the contact after assigning to a list in his MyList.
 - Users can either edit the Contact or delete it.
 - In the edit option we can edit all fields of the contact, assign new values like `adress`, `security number`, `personal email` etc.
+- We can edit social data(facebook,instagram,linkedin,twitter) for all contacts if he don't have already.
+- We can give multiple comments to a contact as Notes.
 
+#4. Export the Lists to CSV
 
+- We have another feature in MyList i.e `Export`(All contacts will be imported to CSV file). For this feature user have to upgrade his plans to paid version.
+After exporting the contacts it will 
+- After exporting the contacts it will store in our database and the user can download the same imported file anytime he desires.
+- With each time he imports he will get the refreshed data from the Go-engine.
 

@@ -1,4 +1,5 @@
-# Leadsolo
+# Leadsolo [![Leadsolo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+
 
 ---------------
 
@@ -7,6 +8,46 @@
 --------------
 
 ![Leadsolo](/docs/images/Leads.png)
+
+
+# Installation and Setup
+
+Create a Folder Ex : `datanex`
+```bash
+cd datanex
+```
+
+Create a virtualenv using command :
+```bash
+cd Your Folder
+virtualenv -p python3 venv
+```
+
+Activate the virtualenv using the following command as below:
+ ```bash
+ source venv/bin/activate
+```
+
+Now as your virtualenv got activated you need to install dependancies i.e packages
+ ```bash
+ cd datanex
+ pip install -r requirements.txt
+```
+
+Set database using mysql or any other db
+```bash
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+
+Please feel free to ask any issues you face during Installation.
+
+Raise issues at [Issues]()
+
+
+
+
 
 
 
